@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Vega",
+  "age": 23,
+  "address": {
+    "street": "Zeizo Center",
+    "city": "Aposifi",
+    "state": "NY",
+    "zip": "42770"
+  },
+  "contact": {
+    "phone": "(232) 306-3877",
+    "servicePhone": "800781251"
+  },
+  "birthday": "2006-10-03T19:07:11.792Z",
+  "ip": "170.168.74.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Huluj idufawzeh seekulak okake inu supaos bokugop zu kupaj sirliig fi acokuze. Enujopes fa onimeat sahos uwif taz fomi uhi hihliivo hig pow bod alseule. Ta natunwac bahiih vokoc duvrojaj ifawi we fa maj teuco giboju cer.",
+    "bio": "Ko la mun lulo loreweza az tamaoz jehsuw wezev okogivjut vubacufe ite zo. Efjorzer epiuwi gun kejbi foter ovcucam hebrifid iz ub mushot cemi orucet ma cuf. Zivosog gead wuivi il oku zocwov pi pa wew wo bikdel dunmab kodiese ic pu."
+  },
+  "apiKey": "6e7a5f43f5802a45c27e681213ab83690d05da5288eddc7ecb382a12875c36de",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
