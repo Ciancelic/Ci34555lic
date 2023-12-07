@@ -1,0 +1,26 @@
+{
+  "name": "Alex Thompson",
+  "age": 62,
+  "address": {
+    "street": "Kunu Square",
+    "city": "Erwuul",
+    "state": "OK",
+    "zip": "85799"
+  },
+  "contact": {
+    "phone": "(229) 595-5546",
+    "servicePhone": "800665583"
+  },
+  "birthday": "1990-12-07T15:01:51.306Z",
+  "ip": "239.222.240.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu ep iroef cevovi ci coveva me peblusza pektos sofog giwulju zapacvar aduas. Dulvicla tug dura mowot uce joul hanif muwhe jirev mi gusrof tul wokcehid infuvoj bo cemse he. Ripipih iszol fu dauceh ke do poh soku la tajog ec voj genja ag jobeju uzazotger muc.",
+    "bio": "Pub fuj sachuzgu igulodori bura zapwazgo mah unutonoj meken esi ri ozjehluf tipki nukuko zijdowu. Apeeke bu ag ib we wouz bijpis iwu honemti zunuwaize fe gefi no cuhizoz ew tu. Ofa liftu vettoftow wip rimzuv litci fer cubwi wel owrew ivmiob viztotebo wuf zi nueh sizfuj gapsujfon wulic. Su re kip zom lulvilog rebok mocnumguz kapav icvap pakos ruwi cepopemah epuso comewfa zahiwo sanmo basap."
+  },
+  "apiKey": "5e33cb0bb4bea95f07b26f5bf78fbc852bc542ff2ecec771d200dd4aa8d1e07e",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
