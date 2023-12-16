@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Gray",
+  "age": 21,
+  "address": {
+    "street": "Iwnur Park",
+    "city": "Novsawha",
+    "state": "IN",
+    "zip": "08606"
+  },
+  "contact": {
+    "phone": "(520) 868-4421",
+    "servicePhone": "800718616"
+  },
+  "birthday": "1966-03-25T22:28:24.928Z",
+  "ip": "242.47.255.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Zokbi kaceez kurri tek muv id zalpawu kina ot lej juton mu. Eh cer tebapu ta avne guepi rut pumuk zuujusu ib zu cikra ususe bovangut fertartuc. Zijriza ragom rowure tecnepu lid odojar pejav luca ri famcofit kope muj awkep ole. Bu mugede osesi ogsugom vugjib temi iro mu adcif asoko loporob ecija ofutufo fus mirpucse ubiliwofu jov omnilal.",
+    "bio": "Maflavtov pag hil jowaci nudcup geassaf ma fuvuz re pi mit cuguv. Bavaguzi sud diluvot uge pog asavir tuwit fu rerwimad teore pusroh tuski hi kawilip ewfijlu zofuda sogilion. Bevho uh awi sibe fi cehomje paweam pephe mer fojin kudha me despup cozeb jo bohhahsed kejih pisho."
+  },
+  "apiKey": "97ddae1b0421b7be6f6d24d0d669c60855a49d5820f6b6c1b088027abc1f8fa6",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
