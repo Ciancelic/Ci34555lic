@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Sanders",
+  "age": 18,
+  "address": {
+    "street": "Ziwfu Street",
+    "city": "Kuweri",
+    "state": "WA",
+    "zip": "45343"
+  },
+  "contact": {
+    "phone": "(261) 432-4616",
+    "servicePhone": "800569789"
+  },
+  "birthday": "1987-11-20T14:01:56.450Z",
+  "ip": "11.129.106.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Wewjo potucduk gorwem jaj zofuni hiv tizsen bicdinbu jo jatvadow tomjozi beneve. Azesokna riga zifgi cojla vab iruke obe moze durop wu peuh vecu va sucet. Zefog roweaz ihnijra gimi mos ivi jij so riobata ges refsura vajwaetu vevwiut difviemu lov bucdavaz for. Da dobu lowas gen pejunu sazriz uzpouwe ke lubdi efeje iwtud leinaow ven raluvofor lehallur cahiphi li.",
+    "bio": "Hana so mikrovso ola eh ja muzurizu cito god moajusag ken pur uho gipzut eka zumnow huhebu. Pevellu laj pa il cihumhe sonnos ditodu katviwo baki ko novuj gu retzaram fakaas. Ofkufok picunawe wurlo avojru nav vivuf hu majzorfok iculroh kestohfa lu gigeja beudousa wu eken vabcuv gi."
+  },
+  "apiKey": "7e7489d0680508ac6b457b7f2247c858cac23d654c054c688ae522009784f665",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
