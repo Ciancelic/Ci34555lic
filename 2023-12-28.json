@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Saunders",
+  "age": 33,
+  "address": {
+    "street": "Vaowe Junction",
+    "city": "Sowfaroj",
+    "state": "FL",
+    "zip": "95723"
+  },
+  "contact": {
+    "phone": "(247) 367-4303",
+    "servicePhone": "800554613"
+  },
+  "birthday": "1978-12-04T23:12:43.806Z",
+  "ip": "45.162.216.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Zucbot cepuj mavce da farew san ruduhjiw menconi acporu hasni gali pifre focep. Jafe aw beatjo miw va li pimniva mavvuovu rowcof jiwumec wajeb cede ofikomam cawelli. Cuev ubufu varuflup vis dunhepli wiikucef tuv rusledu am zibi gaw kudwura tijrasiva owomalam jofiv os hecetdom. Jilfagih ohasuen anuzu ni fon vi zorevehi toz ga waguwo wiswup cezome wuhzelad.",
+    "bio": "Divakrit efuucku coc sube lipwe do dodru povehul nubimi up kiwsa taizuod nealna. Huz nup jep bamurcah ruluahi gache got ugoto jodteja wofikuc olupos feod dujzo on ciduos nuzva. Awe som zu hisoda fuwoj cuwe fuik duowej met tadavil sibiloli ra wehogata."
+  },
+  "apiKey": "591653051dd59088bf9c86e80e87373b12a80f46e144f08774388f88decb8340",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
