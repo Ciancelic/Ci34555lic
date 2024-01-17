@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Roberts",
+  "age": 23,
+  "address": {
+    "street": "Opbe Heights",
+    "city": "Johejoh",
+    "state": "NM",
+    "zip": "97502"
+  },
+  "contact": {
+    "phone": "(816) 464-4446",
+    "servicePhone": "800934436"
+  },
+  "birthday": "1992-04-24T11:34:51.654Z",
+  "ip": "142.240.192.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Seeki fuen kuwino pezi va joaple mustuci gunka benpabir isidocga aker gen mu koko. Fe uviga gugpof fem ho piteg ahpume ezjorace fek sucjen bomgun etizuc bedolfu raza. Gugret hul ofi izamodet zo gewrawit zub esizedev noepe isi fadulor bawidor so jorzarsan etolof gaf.",
+    "bio": "Icuofu nen momub wum edkirmo paki faniwgik tu bof fadverun eguvisgod guji tingo cinak uviduzkap cobep ukuhuv. Galwe sudwor inurafafa galwoce dazrufpe veg una ekpov zuva iridi udge uwwew ef tuw jojuc abauv taevwat. Nogarbir puw kolni icofa zitfalak rorebes ragdil wacmazwe cibur tu badoszuw mifiso."
+  },
+  "apiKey": "bcd3016ddc095c311e60c6b880810bb16608ddb3f563b52716279fa1598207e3",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
