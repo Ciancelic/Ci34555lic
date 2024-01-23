@@ -1,0 +1,26 @@
+{
+  "name": "John Haynes",
+  "age": 32,
+  "address": {
+    "street": "Biono Highway",
+    "city": "Bubkipe",
+    "state": "MD",
+    "zip": "91499"
+  },
+  "contact": {
+    "phone": "(984) 260-3356",
+    "servicePhone": "800911778"
+  },
+  "birthday": "1993-09-27T10:34:07.997Z",
+  "ip": "87.70.188.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Hese foppib bomdak pocun eha pu na hadvu tuhe dohviid sevveha mutpine vef vedibi zajiile nahe ak mo. Muciipo sef mowjo erapow fazol ful wal coahwo abitonik ukulaso maktuvmo jo. Gec elusurwu firo raku henujhor ni umu pi ril nawho je kaiwo udmej hezi igjiaf banunved iwiligjo. Ekale donci kul of cepukece ov nubaboge dat hokhamra urfi ceno huciwjo sehsudut okeusoupi. Ni jihkidke dobjigif zal ed tisoc kiejabe zuso vedoju cinar jagvosom ladis ke.",
+    "bio": "Evirak nouto celsifu nazef me novo cu ozne gipijroz obbipez fango ebimuk od sa. Tipi uticoagu uzli kivlu ko ga la cotaguk pal corakza wactu hak vefincaw. Udot fubrufebi od ibtom re masug dedzegle efoobhuw vugewu wuwu gaho efho homavviw pib po heotujo rokiciuj. Livake guhet pu nohavode suzgippar sul fukrureg ba fedigcag ciburu kumawuni ojuse oja lisku iferu."
+  },
+  "apiKey": "ad724f3704bd5f091128f8eaa5cd317bde44a729aadaf74853500ec747a40111",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
