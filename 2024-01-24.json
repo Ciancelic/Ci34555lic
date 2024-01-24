@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Burns",
+  "age": 27,
+  "address": {
+    "street": "Ekut Mill",
+    "city": "Conoki",
+    "state": "LA",
+    "zip": "68271"
+  },
+  "contact": {
+    "phone": "(663) 523-4279",
+    "servicePhone": "800358324"
+  },
+  "birthday": "1981-01-26T06:57:45.802Z",
+  "ip": "35.240.147.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Agoko dojhe owi zutfu zuzit efu fatrureca kiun higi febzevo lu neci ti ficfofad nienlaf omo. Pufeg govduwko pipafi basisuhet lis gigivheb matu ulisuz ecudupco lobfelet pa hahbam jojco. Kobe voofteh nake ufsit picdini wot lebvic bom bodgenfo busar noswuto dabiw monbeofu fosu. Di ri onatan hipwes hi muhoc nimuka jujabzo birjobah mo kepdoek riejiew kun vigzeava tirawe tag gimacerin. Oha onovugbev ko bogkeot irwec ar fecis cuoru jop men ifigug womoobo doenlag. Ucazu tus ecizelmus no nosfeg wonlif vaze vunka berosot memem vazmozir af utdano la.",
+    "bio": "Cawalbol nor napvejce borcezid egvilno fivot cifiv ber mejo bimca fapivomuw pafe pafweriz irwawuc wanonuju fossaven ja. Irba dentiwok ho ge ahmo hanibe ma ewoga no kolera makcofi ojiacih asfiv seamki do ak rar. Ec delezev beosmo ibu hopdegi logduc id sofkep su giuhore zujcavom oc cume icesojeko ziji jefecug pek gawwucnug."
+  },
+  "apiKey": "ed143793383029581ed1080ebf4999316b4c195134538c8e4bc46201dab4b392",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
