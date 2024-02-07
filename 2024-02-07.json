@@ -1,0 +1,26 @@
+{
+  "name": "Tom Buchanan",
+  "age": 57,
+  "address": {
+    "street": "Igare River",
+    "city": "Nehehop",
+    "state": "NH",
+    "zip": "23912"
+  },
+  "contact": {
+    "phone": "(877) 446-6282",
+    "servicePhone": "800739888"
+  },
+  "birthday": "1998-10-27T11:03:05.875Z",
+  "ip": "250.198.86.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Fumocse ju laddo odu hihte dintoc gawis ugeva vipov uhudhif opirisew kertupmem zeglimsiv somza sih. Buvirgec dasi japirju ovim ura tofaf mitfun nitda vekal he teto um awatubuz oldide cecorzas izkammoh. Ceg buckeupi pop ji foho jow anriod adkuan dot utooc lovtoz woleko ivo soebu tilru moeri pecwapa. Solihueb apgunu ucubof suzpu vop iffigro ovukil caadewa kaniroz kuje ija mukihi.",
+    "bio": "Atitov kidat gaw polte feivo hegefarug ha ikifa lugob fulasut ojuut zop jot peohloj ka na hozgazoze. Lomdefun dahas tobasit cew aponip luni pu alma tampid kem pubij kigdonaj tuk. Tu eze ubakog cetiwo alra jaf hugariz gohces ew appunul sunfoggup hobpuimo repi cubzi anupuzto niguj gegdubu."
+  },
+  "apiKey": "a3968d76b23956fe335c9427842cbb4b5c98b5766ad54e39c617e588c0b93fcf",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
