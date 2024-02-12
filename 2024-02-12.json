@@ -1,0 +1,26 @@
+{
+  "name": "Emma Jennings",
+  "age": 25,
+  "address": {
+    "street": "Nejhi Glen",
+    "city": "Tupuca",
+    "state": "DE",
+    "zip": "93404"
+  },
+  "contact": {
+    "phone": "(643) 693-2198",
+    "servicePhone": "800261448"
+  },
+  "birthday": "1979-09-14T13:19:49.085Z",
+  "ip": "56.222.240.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Koowu gih nokorge imotogop mugum tazba tet gauwus far zuapiof uki pikmuwim fe ter basowi. Um rina zeblac cuffoddi vedinaf oppaiv uje oweihbu muvalat otzetuc fasuca sizmoz anocoih. Sahninpa upzec tosca pegbiaha naad lacloluf rulopud ri vuvofe ugi halwobab reviho fuk tier cuivapin ga.",
+    "bio": "Vogelkeh pu wes eno ezo dajepu ve niz avuoma toba jar nelaw ivapaj. Biz bite maalgu awehafmu alvajgo sowat simmihi onervo nul emooze buaf wupatahu hig ihgizri age. Fok wekiz bu ofikehij hig coweknit ni mukfahnum poipepe ifoabitu az gurila meejba zesvajso fehsut nitus tar. Nirhes zoced zitwu wicbubsek fopo cagelgi agaakuti sapujli ha boale vekcud rezkenvuj."
+  },
+  "apiKey": "2703407cd49a247960de185cc1a99825c051155ff4fc85a1dd8a083dcd034069",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
