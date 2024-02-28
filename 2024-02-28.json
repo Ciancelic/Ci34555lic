@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Fleming",
+  "age": 23,
+  "address": {
+    "street": "Ravu Boulevard",
+    "city": "Zipaka",
+    "state": "NM",
+    "zip": "38399"
+  },
+  "contact": {
+    "phone": "(727) 743-4528",
+    "servicePhone": "800891434"
+  },
+  "birthday": "1979-08-09T12:56:28.207Z",
+  "ip": "111.144.239.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Iku voze tasoke kamiad kamdiwtec vaudijus livozve coj onino sour zuspumzu woafo. Eggoljut at ap hez sel su wo luwudi uz esu go wevwerene dewbikli ku diak agpig. Uvzujlo apmoro ete ulciz wevimi mikvodihe ow amoigi mogop jiihube ropana evizatoha ibusuj veskoc de valsoz mazde.",
+    "bio": "Tokwauni talij ulogimabe biw tip etiazdo jakaztu jelvafjuh adacagi nu ibhufsur cupal owolul sa ricaj jepdija bu. Ohonac uflo we mascil cadoh mi hetu jobwi ate okuwi kevba me pedhav. Ovajocja gognomah gebhe juso hento piuv sodsapli fow eze lubpig rah juva zu."
+  },
+  "apiKey": "0e9aa4573adfec7d15ae6f80f57de0d77f84d462edd5be9e0ee3071d1353211e",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
