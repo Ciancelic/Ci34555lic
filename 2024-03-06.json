@@ -1,0 +1,26 @@
+{
+  "name": "Caleb George",
+  "age": 31,
+  "address": {
+    "street": "Pusfup Highway",
+    "city": "Kenohojo",
+    "state": "ND",
+    "zip": "49165"
+  },
+  "contact": {
+    "phone": "(462) 447-8433",
+    "servicePhone": "800934714"
+  },
+  "birthday": "1985-08-31T12:26:21.122Z",
+  "ip": "68.109.171.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Wawne gajijju kojlon zof etiudatu wisekdir oj sochouza ri tafemkuj utvo fipfu raibi jonu varladef kokvijoc. Vak ohipo vi tindu ped fiz otpek meudene ko ba rofumid festu pip. Elubukrob ilukrek mawrubec nom bede mupalcem pe sogtu pewipe zi gaffe so ela.",
+    "bio": "Po conekje ralojideh awha ze hinhebes tapol ca wujju lij co jiceni. Kos taz don hetojo rikuk be bo tiurmav zo safiw iwu zagjinsuf rojanu viuwa gi buh. Cammugu zibuvudo zuzgemi jokiwun ucifafol nefut se kuw du za wik sapkebavu hice dina genihwe. Kof ladmez gu wanjirfe wajap kegeap liawu pu evuvejid cali rejgelar biatgo juvaej mi tokanehi."
+  },
+  "apiKey": "cb61b92cd8f487cd20f02b0ce115b0dc3e0cd7a3b464f67a0a6c91a03e7b861c",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
