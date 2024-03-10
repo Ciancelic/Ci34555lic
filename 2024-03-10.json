@@ -1,0 +1,26 @@
+{
+  "name": "Donald Pratt",
+  "age": 24,
+  "address": {
+    "street": "Cahos Pass",
+    "city": "Feoleha",
+    "state": "WY",
+    "zip": "06677"
+  },
+  "contact": {
+    "phone": "(524) 531-9334",
+    "servicePhone": "800996791"
+  },
+  "birthday": "2006-07-01T22:22:25.766Z",
+  "ip": "145.23.11.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Kohmet jumefibik waj igfi ehimo lawok habaf odu tona duhuv ri cef. Karat gesdoj pisusa podi dogduna maf zi odo dunvohi ulo kofutpaz ca fiadrac azumo. Toz ma dadibfag macojju ni manij zug backor goamuva vuigu na acruego pojmiswe mujkuzgo kusi.",
+    "bio": "Eto ged ramtocwo cuj hu vuecurah nujet bonha leligom sendadvum juif dejikiwum regez facebra mujju. Ridje tu emdag toro pevuhrip zevwa ah kucos zu kar lafvebbi lu pihhugol bal rugluf ovohirvi cucvendun gu. Dechactam wurzuca tifu domijun papihkik zuna zian did herki wejoz ati socuh hu asdiveb daoctoc fuv vasavo lem. Omsu ibwamo vefikvud hiddaf fah zudfead guftec kejugmud bitnivobu vatekel hazpirtak ca doc ke pannebjeb nuz povuk."
+  },
+  "apiKey": "ff2e279743987bb7e708a16969a2e64bf8d62a5a69874b593b225eb6777c1d1e",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
