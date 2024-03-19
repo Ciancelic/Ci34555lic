@@ -1,0 +1,26 @@
+{
+  "name": "Cameron Aguilar",
+  "age": 64,
+  "address": {
+    "street": "Bojmor Place",
+    "city": "Felfujoj",
+    "state": "DC",
+    "zip": "60581"
+  },
+  "contact": {
+    "phone": "(630) 275-5319",
+    "servicePhone": "800881313"
+  },
+  "birthday": "1966-09-24T03:21:15.611Z",
+  "ip": "142.22.141.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Go wu ja lowu ziw le zulogo torvab cohzos verra evtohaw nepeja fu nigepa cu. Cofri ogoek focsev iwi jepigaj hefe zumajac ogu zuntewom ugu obueji deacoci avmabfo bamol. Ke wofinit lunlopfe retpit zicvuih togni non mizmowfej zilek akukav mawaduve taswecvin cofbudu ivtoj pap. Pa ce runuki tivirene tozefiz ika ucwa pufa itweg waewupu zide ojalezoj. Ezcec cakercev gugueta va bep agpigul lerre nidnuske ag owopal ubmuggel lusemvi fe wuhujuk.",
+    "bio": "We ke hed mugke boenu podekva fawveset epeji ta evagu jahuw nep. Otwanog cic mumlere imu dacticvu nol mem de kipih sa sop ped aka fomugvuv kunegam beed afamiuru ad. Elpi jatwun cicek fewcul ozpojnaz niukelaz lo vehvaiwa upig woniczuv ro noni jegivih wunmo emuta. Uhufo zan elamo apiga unitiz ketigkuf debbo gafpo bolgu sois geazorod vogunsec rojubew jo."
+  },
+  "apiKey": "e46f77dda424c5b7b1aac71a24313e87c2b99f987f89659225184e8ef39f2878",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
