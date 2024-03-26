@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Hanson",
+  "age": 54,
+  "address": {
+    "street": "Poasa Boulevard",
+    "city": "Odwumeg",
+    "state": "OK",
+    "zip": "11028"
+  },
+  "contact": {
+    "phone": "(330) 287-9987",
+    "servicePhone": "800377136"
+  },
+  "birthday": "1971-02-24T07:41:28.244Z",
+  "ip": "113.210.170.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Rotrikif ibope cakuwni kuwteviz ut tulmig emve sit kinabam lojatja no ve maz pi jiew. Gijzo zobeise ubo bin oh mevuja sojwubfog jalurujos unalel oz hoj vaewe res sifow norko ri upiifse sogpen. Vopi ganzivped ugupew gotrinir ejo luwanef baapefim jimmop naume dozorek bewocawu redsaw.",
+    "bio": "Hiki ikojupas jonoz igihidfo peejo opnuz ori zi udo ohituwru fojozifi tufkun owanokpir. Itaaco besam wakez fej we kucmihfo pec bukpu tilmahbuk ojpod gavove kala ozkesok miban divunoku. Sorif badimmu vi vegpi so jujatva posjoweh powa hokejeh genjeddo kerzo evwilpo his uptu. Salum pan votvuk vohpinet hegnu owrulgi azougu pewul nalwi ipza natol huvvu rat artid."
+  },
+  "apiKey": "60629e6c050420b7b219f89bf5e7ccd3eb84dc419adbe4e73a876b1753905b62",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
