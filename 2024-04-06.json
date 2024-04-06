@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Sharp",
+  "age": 41,
+  "address": {
+    "street": "Divti Glen",
+    "city": "Iduafuni",
+    "state": "MS",
+    "zip": "24006"
+  },
+  "contact": {
+    "phone": "(519) 456-4204",
+    "servicePhone": "800757463"
+  },
+  "birthday": "1989-09-10T03:01:15.627Z",
+  "ip": "53.224.47.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifo nidadu pucu woj jot tunwes no cec maaliret famwopgad ri zijuz deragame binuvde sizili vi. Zefva li sozas gu nilu wapebelu iwe zarbif pi nobel ico cihek ran zi korhod efa ippolja gefiul. Kewbonpos ritovbef kaot raso usougja wog bezmi vefvakte ikrur lobdam anvak at isu fotuk. Molla guen sonevehi de deru ku afjiv ca hebemuala ruvgitu pos fopavewoz fehgeas fecaweg. Ketsuv nuh dal pivebzu cogagcal ogasi husgezove junoogi jovac awe mirvi felouha petoni pit vuhsira. Duwa olka acusinjak tolkewek aknis nikac ah hochib kagtaag nowrotmog bihote mowvasal isuci pehduczo na kow. Kurmolof orgura eh cujoj dor zukibe gu tu ovgiviw gufeni gan randi gijeduvi bucbal laksuddeg.",
+    "bio": "Reli pantiv carli ranhu ujkotduk duh adzoil kum wukechi afe vi onozo. Guzutuz urifi useammos mi ne pohuza generu seb su joc sicveje zag voklola beudujun. Mo gohigih mu bedip ci anoije mavtoz sinul ozwuzku mu ad ho cesat. Ridas kumjoci fe gakeuna gom huitaleh geb suj ehifan ukuozo tifedeopa refi no. Zuwtu ku zapwis melek miwu ci fuutvak ub rejeruid deder biwma zuziedi ader siddil rungica fohgug. Eheose gevfobho ufa ikdaiw misoeho ip ho ul erubopu gejgoilo kujela alapume ze tijwuuzi sezom efrudwoj faggonuk."
+  },
+  "apiKey": "e2c2e55838dc6a05797e634cc00322bc76172631ef7792b902d3d356989885f2",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
